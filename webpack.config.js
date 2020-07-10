@@ -15,7 +15,7 @@ module.exports = {
     contentBase: resolve(__dirname, 'public'),
   },
   output: {
-    path: resolve(__dirname, 'public', 'dist'),
+    path: __dirname + 'dist',
     filename: '[name].js',
   },
   module: {
