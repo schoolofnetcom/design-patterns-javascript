@@ -1,1 +1,1 @@
-console.log('observer');
+console.log('observer pattern');
