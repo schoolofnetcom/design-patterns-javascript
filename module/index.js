@@ -24,11 +24,11 @@ function AnimalContainer () {
   }
 }
   
-const container = AnimalContainer();
-container.add('Hen');
-container.add('Goat');
-container.add('Sheep');
+// const container = AnimalContainer();
+// container.add('Hen');
+// container.add('Goat');
+// container.add('Sheep');
 
-console.log(container.get()) //Array(3) ["Hen", "Goat", "Sheep"]
-container.remove('Sheep')
-console.log(container.get()); //Array(2) ["Hen", "Goat"]
+// console.log(container.get()) //Array(3) ["Hen", "Goat", "Sheep"]
+// container.remove('Sheep')
+// console.log(container.get()); //Array(2) ["Hen", "Goat"]
