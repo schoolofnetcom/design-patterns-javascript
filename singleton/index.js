@@ -17,4 +17,4 @@ function compare(object1, object2) {
 const object1 = Singleton.getInstance();
 const object2 = Singleton.getInstance();
 
-console.log(compare(object1, object2));
+// console.log(compare(object1, object2));
