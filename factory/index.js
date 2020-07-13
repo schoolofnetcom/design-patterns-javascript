@@ -15,4 +15,4 @@ function CriaPessoa(nome, sobrenome) {
 
 const pessoa1 = CriaPessoa('Thiago', 'Valls');
 
-console.log(pessoa1.fullName());
+// console.log(pessoa1.fullName());
